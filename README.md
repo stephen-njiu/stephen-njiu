@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen Njiu</h1>
-<h3 align="center">A passionate Machine learning Engineer and Quant from Kenya</h3>
+<h3 align="center">A passionate Quant and Machine Learning Engineer from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephen-njiu" alt="stephen-njiu" /></a> </p>
 
 - 🔭 I’m currently working on [Back-End Developement](https://github.com/stephen-njiu)
 
-- 🌱 I’m currently learning **Django, Progressive Web Apps using JS, financial chatbots**
+- 🌱 I’m currently learning **Arbitrage Trading**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephen-njiu](https://github.com/stephen-njiu)
 
