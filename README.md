@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Stephen Njiu</h1>
-<h3 align="center">A passionate Quant and Machine Learning Engineer from Kenya</h3>
+<h3 align="center">A passionate Quant, Mathematician from Kenya</h3>
+<h3 align="center">C++ | Python | Pinescript | MQL4 | Multichart | Solidity | Frontend</h3>
+<h5 align="center"><i>Blessed be the Most High for Me</i></h5>
+<h5 align="center"><i>God Bless Bitcoin</i></h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephen-njiu" alt="stephen-njiu" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephen-njiu" alt="stephen-njiu" /></a> </p>-->
+- 🔭 I’m currently working on [Profitable Mean Reversion FX, Derivatives and Crypto Algorithms](https://github.com/stephen-njiu)
 
-- 🔭 I’m currently working on [Back-End Developement](https://github.com/stephen-njiu)
-
-- 🌱 I’m currently learning **Arbitrage Trading**
+- 🌱 I’m currently learning **Quantitative Analysis using Solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephen-njiu](https://github.com/stephen-njiu)
 
-- 💬 Ask me about **Quantitative Trading, Django, Flask**
+- 💬 Ask me about **Quantitative Trading, Web3, Crypto**
 
 - 📫 How to reach me **stephennjiu@gmail.com**
 
@@ -24,7 +26,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen-njiu" height="30" width="40" />
     </a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -55,6 +57,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
 </p>
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen-njiu&show_icons=true&locale=en&layout=compact" alt="stephen-njiu" /></p>
 
