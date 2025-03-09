@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **stephennjiu@gmail.com**
 
-- ⚡ Fun fact **The power lies in Simplicity**
+- ⚡ Fun fact: **Hips Don't Lie. Numbers Don't Lie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
