@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Stephen Njiu</h1>
+<h1 align="center">Hi, I'm Stephen Njiu</h1>
 <h3 align="center">A passionate Quant, Mathematician from Kenya</h3>
-<h3 align="center">C++ | Python | Pinescript | MQL4 | Multichart | Solidity | Frontend</h3>
-<h5 align="center"><i>Blessed be the Most High for Me</i></h5>
+<h3 align="center">C++ | Python | Pinescript | MQL4 | Multichart | Solidity </h3>
 <h5 align="center"><i>God Bless Bitcoin</i></h5>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephen-njiu" alt="stephen-njiu" /></a> </p>-->
-- 🔭 I’m currently working on [Profitable Mean Reversion FX, Derivatives and Crypto Algorithms](https://github.com/stephen-njiu)
+- 🔭 I’m currently working on [Mean Reversion algorithms with high Calmar Ratio  in FX, Derivatives and Cryptos](https://github.com/stephen-njiu)
 
 - 🌱 I’m currently learning **Quantitative Analysis using Solidity**
 
